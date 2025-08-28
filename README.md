@@ -1,7 +1,8 @@
 # vmprotect-3.5.1
-<img width="840" height="108" alt="Cool Text - VMPROTECT- 489676080394573" src="https://github.com/user-attachments/assets/1d16c974-a6ee-4b64-a174-01105617fe25" />
+<img width="614" height="284" alt="image" src="https://github.com/user-attachments/assets/33a67cb9-993d-4ada-b03f-12b235d9a3a2" />
 
-The VMProtect source code.
+
+## The VMProtect source code.
 
 Building:
 
